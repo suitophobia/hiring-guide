@@ -1,0 +1,7 @@
+# Founder chat
+
+While a company’s culture cannot be created overnight by any single person, the leaders and founders have the most influence in setting the tone and deciding on the direction that it takes. **Every hire that you make shapes this fledgling culture, doubly so in a company’s early stages.** In order to be able to make informed decisions about who should be allowed to influence this growth, founders should be talking to every new hire.
+
+As important as this discussion is as an assessment tool, a culture is made from the values of more than just the founders, so it’s important to **be cognisant of just how much stock you’re putting in just one or two people’s opinions** when doing something like this. A pretty bad situation would be one where you’ve hired a number of people and the only thing that they have in common is the shared trait of “well the founders liked them”, so if you’re able to diversify the number of people you get input from, you should definitely do so.
+
+**Once your team and hiring process start to scale significantly, it can be very easy for a founder’s limited availability to become a bottleneck.** We often see this happening around the 50 hire mark, however we’ve seen examples of companies where the founders personally chat with everyone well past hire number one hundred. If this situation arises, keep in mind that there are other options available outside of shepherding two people into a coffee shop booth; tools like Skype or Google Hangouts can make it a lot easier to fit meetings like these into people schedules.

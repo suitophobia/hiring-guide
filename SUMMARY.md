@@ -1,3 +1,45 @@
 # Table of contents
 
-* [readme](README.md)
+* [Building the ultimate tech hiring process](README.md)
+  * [How to use this guide](building-the-ultimate-tech-hiring-process/how-to-use-this-guide.md)
+  * [General tips](building-the-ultimate-tech-hiring-process/general-tips.md)
+
+## The Hiring Process
+
+* [Reaching out](the-hiring-process/reaching-out.md)
+* [Interviewing](the-hiring-process/interviewing.md)
+* [Initial conversation](the-hiring-process/initial-conversation/README.md)
+  * [Screening chat](the-hiring-process/initial-conversation/screening-chat.md)
+  * [Sales chat](the-hiring-process/initial-conversation/sales-chat.md)
+* [Technical Assessments](the-hiring-process/technical-assessments/README.md)
+  * [Technical interview](the-hiring-process/technical-assessments/technical-interview.md)
+  * [Whiteboarding](the-hiring-process/technical-assessments/whiteboarding.md)
+  * [Paper programming](the-hiring-process/technical-assessments/paper-programming.md)
+  * [Take home project](the-hiring-process/technical-assessments/take-home-project.md)
+  * [Online test](the-hiring-process/technical-assessments/online-test.md)
+  * [Pair programming](the-hiring-process/technical-assessments/pair-programming.md)
+  * [Nothing](the-hiring-process/technical-assessments/nothing.md)
+  * [📑 Comparison](the-hiring-process/technical-assessments/comparison.md)
+* [Culture fit](the-hiring-process/culture-fit/README.md)
+  * [Structured interview](the-hiring-process/culture-fit/structured-interview.md)
+  * [Meet the team](the-hiring-process/culture-fit/meet-the-team.md)
+  * [Simulation day](the-hiring-process/culture-fit/simulation-day.md)
+  * [Founder chat](the-hiring-process/culture-fit/founder-chat.md)
+* [Team fit](the-hiring-process/team-fit/README.md)
+  * [Onsite chat](the-hiring-process/team-fit/onsite-chat.md)
+  * [Team drinks/dinner](the-hiring-process/team-fit/team-drinks-dinner.md)
+* [Reference checks](the-hiring-process/reference-checks/README.md)
+  * [Calling references](the-hiring-process/reference-checks/calling-references.md)
+  * [Criminal and credit](the-hiring-process/reference-checks/criminal-and-credit.md)
+* [Making an offer](the-hiring-process/making-an-offer/README.md)
+  * [Pre-offer call](the-hiring-process/making-an-offer/pre-offer-call.md)
+  * [Offer email](the-hiring-process/making-an-offer/offer-email.md)
+  * [Testing the waters](the-hiring-process/making-an-offer/testing-the-waters.md)
+  * [Contract](the-hiring-process/making-an-offer/contract.md)
+* [Onboarding](the-hiring-process/onboarding.md)
+
+## Resources
+
+* [Example hiring process for smaller startup](resources/example-hiring-process-for-smaller-startup.md)
+* [Example hiring process for larger company](resources/example-hiring-process-for-larger-company.md)
+* [Further Reading](resources/further-reading.md)

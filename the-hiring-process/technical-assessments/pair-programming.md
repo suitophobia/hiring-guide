@@ -1,0 +1,5 @@
+# Pair programming
+
+A pair programming assessment involves assigning somebody from your existing team sitting with and collaborating (either remotely, or by physically sitting at the same workstation) to solve a single problem. This technique can an extremely effective way to gauge a number of key metrics, from technical ability and problem solving skills, through to communication ability and collaboration. It does however come at a significant cost in terms of preparation and the involvement of multiple members of your existing team, so it’s not to be undertaken lightly.
+
+A common theme so far has been that briefing is critical to an effective technical assessment, and pair programming is no different. **Well executed pair programming assessments will always be explicit up-front about the differentiation between the assessors and the people that the candidate will be programming with.** Poorly run pair programming sessions can easily result in a candidate being hesitant to explore all of the solutions at their disposal, which is understandable when you consider how easy it is to feel like the person sitting next to you is judging your every keystroke.
