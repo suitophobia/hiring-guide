@@ -6,7 +6,6 @@
 
 ## The Hiring Process
 
-* [Reaching out](the-hiring-process/reaching-out.md)
 * [Interviewing](the-hiring-process/interviewing.md)
 * [Initial conversation](the-hiring-process/initial-conversation/README.md)
   * [Screening chat](the-hiring-process/initial-conversation/screening-chat.md)
@@ -37,6 +36,7 @@
   * [Testing the waters](the-hiring-process/making-an-offer/testing-the-waters.md)
   * [Contract](the-hiring-process/making-an-offer/contract.md)
 * [Onboarding](the-hiring-process/onboarding.md)
+* [Reaching out](the-hiring-process/reaching-out.md)
 
 ## Resources
 
